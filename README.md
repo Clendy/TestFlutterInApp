@@ -1,5 +1,7 @@
 # TestFlutterInApp
 
- `cd ./module_flutter
-  run command: flutter packages get
-  run app`
+ `
+ cd ./module_flutter <br>
+ run command: flutter packages get <br>
+ run app
+ `
